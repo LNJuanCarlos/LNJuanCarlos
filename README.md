@@ -4,7 +4,7 @@
 
 <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
 
-<h3> 👨🏻‍💻 About Me </h3>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 - ☕ &nbsp; I believe a perfect cup of coffee can be the ultimate solution to any stress.
 - 🤔 &nbsp; I enjoy exploring new technologies, developing software solutions and quick hacks.
